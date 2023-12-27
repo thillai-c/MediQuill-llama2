@@ -2,7 +2,7 @@
 
 
 
-This is a medicine-focussed Llama-2 fine tuned using thillaic/MedQuad-MedicalQnADataset-Llama2-1k dataset
+This is a medical-focussed Llama-2 fine tuned using thillaic/MedQuad-MedicalQnADataset-Llama2-1k dataset
 
 
 ## Model Details
