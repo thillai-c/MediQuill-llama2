@@ -1,9 +1,8 @@
 # MediQuill-llama2
 
 
-# Model Card for thillaic/MediQuill
 
-This is a medicine-focussed mistral fine tuned using thillaic/MedQuad-MedicalQnADataset-Llama2-1k dataset
+This is a medicine-focussed Llama-2 fine tuned using thillaic/MedQuad-MedicalQnADataset-Llama2-1k dataset
 
 
 ## Model Details
