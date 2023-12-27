@@ -41,8 +41,8 @@ T4 GPU
 
 ## Model Card Authors [optional]
 
-[Tonic](https://huggingface.co/thillaic)
+[ThillaiC](https://huggingface.co/thillaic)
 
 ## Model Card Contact
 
-[Tonic](https://huggingface.co/thillaic)
+[ThillaiC](https://huggingface.co/thillaic)
